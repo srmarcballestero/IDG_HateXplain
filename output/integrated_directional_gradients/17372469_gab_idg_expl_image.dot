@@ -1,0 +1,50 @@
+graph {
+	node [format=png height=0.15 nodesep=0.001 ordering=out overlap=prism overlap_scaling=0.01 ranksep=0.001 ratio=0.2 style=filled width=0.15]
+	{
+		rank=same
+		a_w_3 [label=an color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_4 [label=these color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_5 [label=nigger color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_6 [label=biches color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_7 [label=look color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_9 [label=like color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_11 [label=godzilla color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_12 [label=nasty color=black fillcolor=floralwhite style="filled,solid"]
+	}
+	a_n_3 -- a_w_3
+	a_n_4 -- a_w_4
+	a_n_5 -- a_w_5
+	a_n_6 -- a_w_6
+	a_n_7 -- a_w_7
+	a_n_9 -- a_w_9
+	a_n_11 -- a_w_11
+	a_n_12 -- a_w_12
+	{
+		rank=same
+		a_n_3 [label=0.06116637 color="0.334 1.000 0.939" fontcolor=black]
+		a_n_4 [label=0.09081689 color="0.334 1.000 0.909" fontcolor=black]
+		a_n_5 [label=0.31824958 color="0.334 1.000 0.682" fontcolor=black]
+		a_n_6 [label=0.22959751 color="0.334 1.000 0.770" fontcolor=black]
+		a_n_7 [label=0.06536821 color="0.334 1.000 0.935" fontcolor=black]
+		a_n_9 [label=0.05131294 color="0.334 1.000 0.949" fontcolor=black]
+		a_n_11 [label=0.08331924 color="0.334 1.000 0.917" fontcolor=black]
+		a_n_12 [label=0.09361874 color="0.334 1.000 0.906" fontcolor=black]
+	}
+	a_n_0 [label=0.99999999 color="0.334 1.000 0.250" fontcolor=grey99]
+	a_n_1 [label=0.70203667 color="0.334 1.000 0.298" fontcolor=grey99]
+	a_n_0 -- a_n_1
+	a_n_2 [label=0.29571771 color="0.334 1.000 0.704" fontcolor=grey99]
+	a_n_0 -- a_n_2
+	a_n_1 -- a_n_3
+	a_n_1 -- a_n_4
+	a_n_1 -- a_n_5
+	a_n_1 -- a_n_6
+	a_n_2 -- a_n_7
+	a_n_8 [label=0.22953228 color="0.334 1.000 0.770" fontcolor=grey99]
+	a_n_2 -- a_n_8
+	a_n_8 -- a_n_9
+	a_n_10 [label=0.17758424 color="0.334 1.000 0.822" fontcolor=grey99]
+	a_n_8 -- a_n_10
+	a_n_10 -- a_n_11
+	a_n_10 -- a_n_12
+}

@@ -1,0 +1,316 @@
+strict digraph "" {
+	a_n_0	[div_dir=1,
+		index=0,
+		level=5,
+		pos="5.083333333333333,5!",
+		text_span="[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+		value=0.99999998];
+	a_n_1	[div_dir=1,
+		index=0,
+		level=4,
+		pos="0.875,4!",
+		text_span="[0, 1, 2, 3]",
+		value=0.27134818];
+	a_n_0 -> a_n_1;
+	a_n_2	[div_dir=1,
+		index=1,
+		level=4,
+		pos="4.875,4!",
+		text_span="[4, 5, 6, 7]",
+		value=0.46072798];
+	a_n_0 -> a_n_2;
+	a_n_3	[div_dir=1,
+		index=2,
+		level=4,
+		pos="9.5,4!",
+		text_span="[8, 9, 10, 11, 12]",
+		value=0.26670911];
+	a_n_0 -> a_n_3;
+	PAD_910ccc	[div_dir=1,
+		index=0,
+		level=3,
+		pos="0.0,3!",
+		text_span="[0]",
+		value=0.04374109];
+	a_n_1 -> PAD_910ccc;
+	a_n_5	[div_dir=1,
+		index=1,
+		level=3,
+		pos="1.75,3!",
+		text_span="[1, 2, 3]",
+		value=0.22720660];
+	a_n_1 -> a_n_5;
+	PAD_fc3ff2	[div_dir=1,
+		index=0,
+		level=2,
+		pos="0.0,2!",
+		text_span="[0]",
+		value=0.04374109];
+	PAD_910ccc -> PAD_fc3ff2;
+	a_n_4	[div_dir=1,
+		index=0,
+		level=1,
+		pos="0.0,1!",
+		text_span="[0]",
+		value=0.04374109];
+	PAD_fc3ff2 -> a_n_4;
+	a_w_4	[div_dir=0,
+		index=0,
+		level=0,
+		pos="0,0!",
+		text_span="[0]",
+		value=if];
+	a_n_4 -> a_w_4;
+	PAD_e9f58c	[div_dir=1,
+		index=1,
+		level=2,
+		pos="1.0,2!",
+		text_span="[1]",
+		value=0.09374268];
+	a_n_5 -> PAD_e9f58c;
+	a_n_11	[div_dir=1,
+		index=2,
+		level=2,
+		pos="2.5,2!",
+		text_span="[2, 3]",
+		value=0.13305079];
+	a_n_5 -> a_n_11;
+	a_n_10	[div_dir=1,
+		index=1,
+		level=1,
+		pos="1.0,1!",
+		text_span="[1]",
+		value=0.09374268];
+	PAD_e9f58c -> a_n_10;
+	a_w_10	[div_dir=0,
+		index=1,
+		level=0,
+		pos="1,0!",
+		text_span="[1]",
+		value=hopper];
+	a_n_10 -> a_w_10;
+	a_n_16	[div_dir=-1,
+		index=2,
+		level=1,
+		pos="2.0,1!",
+		text_span="[2]",
+		value=0.05497785];
+	a_n_11 -> a_n_16;
+	a_n_17	[div_dir=1,
+		index=3,
+		level=1,
+		pos="3.0,1!",
+		text_span="[3]",
+		value=0.07790188];
+	a_n_11 -> a_n_17;
+	a_w_16	[div_dir=0,
+		index=2,
+		level=0,
+		pos="2,0!",
+		text_span="[2]",
+		value=is];
+	a_n_16 -> a_w_16;
+	a_w_17	[div_dir=0,
+		index=3,
+		level=0,
+		pos="3,0!",
+		text_span="[3]",
+		value=died];
+	a_n_17 -> a_w_17;
+	PAD_c1e33d	[div_dir=1,
+		index=2,
+		level=3,
+		pos="4.0,3!",
+		text_span="[4]",
+		value=0.05178289];
+	a_n_2 -> PAD_c1e33d;
+	a_n_7	[div_dir=1,
+		index=3,
+		level=3,
+		pos="5.75,3!",
+		text_span="[5, 6, 7]",
+		value=0.40785461];
+	a_n_2 -> a_n_7;
+	PAD_6f2ce1	[div_dir=1,
+		index=3,
+		level=2,
+		pos="4.0,2!",
+		text_span="[4]",
+		value=0.05178289];
+	PAD_c1e33d -> PAD_6f2ce1;
+	a_n_6	[div_dir=1,
+		index=4,
+		level=1,
+		pos="4.0,1!",
+		text_span="[4]",
+		value=0.05178289];
+	PAD_6f2ce1 -> a_n_6;
+	a_w_6	[div_dir=0,
+		index=4,
+		level=0,
+		pos="4,0!",
+		text_span="[4]",
+		value=you];
+	a_n_6 -> a_w_6;
+	PAD_6f51b5	[div_dir=1,
+		index=4,
+		level=2,
+		pos="5.0,2!",
+		text_span="[5]",
+		value=0.05137439];
+	a_n_7 -> PAD_6f51b5;
+	a_n_13	[div_dir=1,
+		index=5,
+		level=2,
+		pos="6.5,2!",
+		text_span="[6, 7]",
+		value=0.35532332];
+	a_n_7 -> a_n_13;
+	a_n_12	[div_dir=1,
+		index=5,
+		level=1,
+		pos="5.0,1!",
+		text_span="[5]",
+		value=0.05137439];
+	PAD_6f51b5 -> a_n_12;
+	a_w_12	[div_dir=0,
+		index=5,
+		level=0,
+		pos="5,0!",
+		text_span="[5]",
+		value=all];
+	a_n_12 -> a_w_12;
+	a_n_18	[div_dir=1,
+		index=6,
+		level=1,
+		pos="6.0,1!",
+		text_span="[6]",
+		value=0.31044236];
+	a_n_13 -> a_n_18;
+	a_n_19	[div_dir=1,
+		index=7,
+		level=1,
+		pos="7.0,1!",
+		text_span="[7]",
+		value=0.04365538];
+	a_n_13 -> a_n_19;
+	a_w_18	[div_dir=0,
+		index=6,
+		level=0,
+		pos="6,0!",
+		text_span="[6]",
+		value=niggers];
+	a_n_18 -> a_w_18;
+	a_w_19	[div_dir=0,
+		index=7,
+		level=0,
+		pos="7,0!",
+		text_span="[7]",
+		value=better];
+	a_n_19 -> a_w_19;
+	PAD_cecc79	[div_dir=1,
+		index=4,
+		level=3,
+		pos="8.0,3!",
+		text_span="[8]",
+		value=0.05303692];
+	a_n_3 -> PAD_cecc79;
+	a_n_9	[div_dir=1,
+		index=5,
+		level=3,
+		pos="11.0,3!",
+		text_span="[9, 10, 11, 12]",
+		value=0.21314245];
+	a_n_3 -> a_n_9;
+	PAD_2faf88	[div_dir=1,
+		index=6,
+		level=2,
+		pos="8.0,2!",
+		text_span="[8]",
+		value=0.05303692];
+	PAD_cecc79 -> PAD_2faf88;
+	a_n_8	[div_dir=1,
+		index=8,
+		level=1,
+		pos="8.0,1!",
+		text_span="[8]",
+		value=0.05303692];
+	PAD_2faf88 -> a_n_8;
+	a_w_8	[div_dir=0,
+		index=8,
+		level=0,
+		pos="8,0!",
+		text_span="[8]",
+		value=count];
+	a_n_8 -> a_w_8;
+	PAD_a753f0	[div_dir=1,
+		index=8,
+		level=2,
+		pos="12.0,2!",
+		text_span="[12]",
+		value=0.05225307];
+	a_n_9 -> PAD_a753f0;
+	a_n_14	[div_dir=1,
+		index=7,
+		level=2,
+		pos="10.0,2!",
+		text_span="[9, 10, 11]",
+		value=0.16052283];
+	a_n_9 -> a_n_14;
+	a_n_15	[div_dir=1,
+		index=12,
+		level=1,
+		pos="12.0,1!",
+		text_span="[12]",
+		value=0.05225307];
+	PAD_a753f0 -> a_n_15;
+	a_w_15	[div_dir=0,
+		index=12,
+		level=0,
+		pos="12,0!",
+		text_span="[12]",
+		value="<user>"];
+	a_n_15 -> a_w_15;
+	a_n_20	[div_dir=1,
+		index=9,
+		level=1,
+		pos="9.0,1!",
+		text_span="[9]",
+		value=0.04124564];
+	a_n_14 -> a_n_20;
+	a_n_21	[div_dir=1,
+		index=10,
+		level=1,
+		pos="10.0,1!",
+		text_span="[10]",
+		value=0.07428136];
+	a_n_14 -> a_n_21;
+	a_n_22	[div_dir=1,
+		index=11,
+		level=1,
+		pos="11.0,1!",
+		text_span="[11]",
+		value=0.04463579];
+	a_n_14 -> a_n_22;
+	a_w_20	[div_dir=0,
+		index=9,
+		level=0,
+		pos="9,0!",
+		text_span="[9]",
+		value=your];
+	a_n_20 -> a_w_20;
+	a_w_21	[div_dir=0,
+		index=10,
+		level=0,
+		pos="10,0!",
+		text_span="[10]",
+		value=fucking];
+	a_n_21 -> a_w_21;
+	a_w_22	[div_dir=0,
+		index=11,
+		level=0,
+		pos="11,0!",
+		text_span="[11]",
+		value=days];
+	a_n_22 -> a_w_22;
+}

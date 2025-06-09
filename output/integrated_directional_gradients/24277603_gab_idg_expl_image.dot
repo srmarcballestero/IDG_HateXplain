@@ -1,0 +1,52 @@
+graph {
+	node [format=png height=0.15 nodesep=0.001 ordering=out overlap=prism overlap_scaling=0.01 ranksep=0.001 ratio=0.2 style=filled width=0.15]
+	{
+		rank=same
+		a_w_6 [label=imagine color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_11 [label=trusting color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_13 [label=that color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_14 [label=rat color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_4 [label=faced color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_8 [label=faggot color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_9 [label=kike color=black fillcolor=floralwhite style="filled,solid"]
+	}
+	a_n_6 -- a_w_6
+	a_n_11 -- a_w_11
+	a_n_13 -- a_w_13
+	a_n_14 -- a_w_14
+	a_n_4 -- a_w_4
+	a_n_8 -- a_w_8
+	a_n_9 -- a_w_9
+	{
+		rank=same
+		a_n_6 [label=0.06935458 color="0.334 1.000 0.931" fontcolor=black]
+		a_n_11 [label=0.09194364 color="0.334 1.000 0.908" fontcolor=black]
+		a_n_13 [label=0.08399431 color="0.835 1.000 0.916" fontcolor=black]
+		a_n_14 [label=0.11514014 color="0.334 1.000 0.885" fontcolor=black]
+		a_n_4 [label=0.08839339 color="0.334 1.000 0.912" fontcolor=black]
+		a_n_8 [label=0.29201111 color="0.334 1.000 0.708" fontcolor=black]
+		a_n_9 [label=0.24796747 color="0.334 1.000 0.752" fontcolor=black]
+	}
+	a_n_0 [label=1.00000000 color="0.334 1.000 0.250" fontcolor=grey99]
+	a_n_1 [label=0.36318157 color="0.334 1.000 0.637" fontcolor=grey99]
+	a_n_0 -- a_n_1
+	a_n_2 [label=0.63415301 color="0.334 1.000 0.366" fontcolor=grey99]
+	a_n_0 -- a_n_2
+	a_n_3 [label=0.36263143 color="0.334 1.000 0.637" fontcolor=grey99]
+	a_n_1 -- a_n_3
+	a_n_2 -- a_n_4
+	a_n_5 [label=0.54281072 color="0.334 1.000 0.457" fontcolor=grey99]
+	a_n_2 -- a_n_5
+	a_n_3 -- a_n_6
+	a_n_7 [label=0.29272670 color="0.334 1.000 0.707" fontcolor=grey99]
+	a_n_3 -- a_n_7
+	a_n_5 -- a_n_8
+	a_n_5 -- a_n_9
+	a_n_10 [label=0.29212322 color="0.334 1.000 0.708" fontcolor=grey99]
+	a_n_7 -- a_n_10
+	a_n_10 -- a_n_11
+	a_n_12 [label=0.19957610 color="0.334 1.000 0.800" fontcolor=grey99]
+	a_n_10 -- a_n_12
+	a_n_12 -- a_n_13
+	a_n_12 -- a_n_14
+}

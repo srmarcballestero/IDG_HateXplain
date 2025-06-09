@@ -1,0 +1,144 @@
+graph {
+	node [format=png height=0.15 nodesep=0.001 ordering=out overlap=prism overlap_scaling=0.01 ranksep=0.001 ratio=0.2 style=filled width=0.15]
+	{
+		rank=same
+		a_w_1 [label=tfw color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_2 [label=i color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_3 [label=never color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_5 [label=got color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_8 [label=to color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_10 [label=use color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_13 [label=my color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_14 [label=white color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_15 [label=privilege color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_17 [label=to1 color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_18 [label=just color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_23 [label=walk color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_28 [label=into color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_35 [label=a color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_36 [label=starbucks color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_21 [label=and color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_25 [label=take color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_30 [label=a1 color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_31 [label=huge color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_32 [label=shit color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_33 [label=without color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_38 [label=buying color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_40 [label=a2 color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_41 [label=small color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_42 [label=coffee color=black fillcolor=floralwhite style="filled,solid"]
+	}
+	a_n_1 -- a_w_1
+	a_n_2 -- a_w_2
+	a_n_3 -- a_w_3
+	a_n_5 -- a_w_5
+	a_n_8 -- a_w_8
+	a_n_10 -- a_w_10
+	a_n_13 -- a_w_13
+	a_n_14 -- a_w_14
+	a_n_15 -- a_w_15
+	a_n_17 -- a_w_17
+	a_n_18 -- a_w_18
+	a_n_23 -- a_w_23
+	a_n_28 -- a_w_28
+	a_n_35 -- a_w_35
+	a_n_36 -- a_w_36
+	a_n_21 -- a_w_21
+	a_n_25 -- a_w_25
+	a_n_30 -- a_w_30
+	a_n_31 -- a_w_31
+	a_n_32 -- a_w_32
+	a_n_33 -- a_w_33
+	a_n_38 -- a_w_38
+	a_n_40 -- a_w_40
+	a_n_41 -- a_w_41
+	a_n_42 -- a_w_42
+	{
+		rank=same
+		a_n_1 [label=0.15905243 color="0.835 1.000 0.841" fontcolor=black]
+		a_n_2 [label=0.03651640 color="0.334 1.000 0.963" fontcolor=black]
+		a_n_3 [label=0.03495970 color="0.334 1.000 0.965" fontcolor=black]
+		a_n_5 [label=0.03282915 color="0.334 1.000 0.967" fontcolor=black]
+		a_n_8 [label=0.02035698 color="0.334 1.000 0.980" fontcolor=black]
+		a_n_10 [label=0.02863576 color="0.835 1.000 0.971" fontcolor=black]
+		a_n_13 [label=0.03367713 color="0.334 1.000 0.966" fontcolor=black]
+		a_n_14 [label=0.07781319 color="0.835 1.000 0.922" fontcolor=black]
+		a_n_15 [label=0.06115282 color="0.334 1.000 0.939" fontcolor=black]
+		a_n_17 [label=0.02207527 color="0.835 1.000 0.978" fontcolor=black]
+		a_n_18 [label=0.02259159 color="0.334 1.000 0.977" fontcolor=black]
+		a_n_23 [label=0.02548048 color="0.334 1.000 0.975" fontcolor=black]
+		a_n_28 [label=0.02269619 color="0.334 1.000 0.977" fontcolor=black]
+		a_n_35 [label=0.02358016 color="0.835 1.000 0.976" fontcolor=black]
+		a_n_36 [label=0.05851019 color="0.334 1.000 0.941" fontcolor=black]
+		a_n_21 [label=0.02430775 color="0.334 1.000 0.976" fontcolor=black]
+		a_n_25 [label=0.02221517 color="0.835 1.000 0.978" fontcolor=black]
+		a_n_30 [label=0.02107919 color="0.334 1.000 0.979" fontcolor=black]
+		a_n_31 [label=0.03484814 color="0.334 1.000 0.965" fontcolor=black]
+		a_n_32 [label=0.05964371 color="0.835 1.000 0.940" fontcolor=black]
+		a_n_33 [label=0.03121564 color="0.334 1.000 0.969" fontcolor=black]
+		a_n_38 [label=0.03662596 color="0.835 1.000 0.963" fontcolor=black]
+		a_n_40 [label=0.02494159 color="0.334 1.000 0.975" fontcolor=black]
+		a_n_41 [label=0.03051944 color="0.334 1.000 0.969" fontcolor=black]
+		a_n_42 [label=0.05284286 color="0.835 1.000 0.947" fontcolor=black]
+	}
+	a_n_0 [label=1.00000000 color="0.334 1.000 0.250" fontcolor=grey99]
+	a_n_0 -- a_n_1
+	a_n_0 -- a_n_2
+	a_n_0 -- a_n_3
+	a_n_4 [label=0.76934738 color="0.334 1.000 0.250" fontcolor=grey99]
+	a_n_0 -- a_n_4
+	a_n_4 -- a_n_5
+	a_n_6 [label=0.73637280 color="0.334 1.000 0.264" fontcolor=grey99]
+	a_n_4 -- a_n_6
+	a_n_7 [label=0.73623677 color="0.334 1.000 0.264" fontcolor=grey99]
+	a_n_6 -- a_n_7
+	a_n_7 -- a_n_8
+	a_n_9 [label=0.71574378 color="0.334 1.000 0.284" fontcolor=grey99]
+	a_n_7 -- a_n_9
+	a_n_9 -- a_n_10
+	a_n_11 [label=0.17265174 color="0.334 1.000 0.827" fontcolor=grey99]
+	a_n_9 -- a_n_11
+	a_n_12 [label=0.51432835 color="0.334 1.000 0.486" fontcolor=grey99]
+	a_n_9 -- a_n_12
+	a_n_11 -- a_n_13
+	a_n_11 -- a_n_14
+	a_n_11 -- a_n_15
+	a_n_16 [label=0.51417832 color="0.334 1.000 0.486" fontcolor=grey99]
+	a_n_12 -- a_n_16
+	a_n_16 -- a_n_17
+	a_n_16 -- a_n_18
+	a_n_19 [label=0.46936145 color="0.334 1.000 0.531" fontcolor=grey99]
+	a_n_16 -- a_n_19
+	a_n_20 [label=0.13061489 color="0.334 1.000 0.869" fontcolor=grey99]
+	a_n_19 -- a_n_20
+	a_n_19 -- a_n_21
+	a_n_22 [label=0.31430187 color="0.334 1.000 0.686" fontcolor=grey99]
+	a_n_19 -- a_n_22
+	a_n_20 -- a_n_23
+	a_n_24 [label=0.10500857 color="0.334 1.000 0.895" fontcolor=grey99]
+	a_n_20 -- a_n_24
+	a_n_22 -- a_n_25
+	a_n_26 [label=0.11560898 color="0.334 1.000 0.884" fontcolor=grey99]
+	a_n_22 -- a_n_26
+	a_n_27 [label=0.17645491 color="0.334 1.000 0.824" fontcolor=grey99]
+	a_n_22 -- a_n_27
+	a_n_24 -- a_n_28
+	a_n_29 [label=0.08218245 color="0.334 1.000 0.918" fontcolor=grey99]
+	a_n_24 -- a_n_29
+	a_n_26 -- a_n_30
+	a_n_26 -- a_n_31
+	a_n_26 -- a_n_32
+	a_n_27 -- a_n_33
+	a_n_34 [label=0.14520384 color="0.835 1.000 0.855" fontcolor=grey99]
+	a_n_27 -- a_n_34
+	a_n_29 -- a_n_35
+	a_n_29 -- a_n_36
+	a_n_37 [label=0.14507857 color="0.835 1.000 0.855" fontcolor=grey99]
+	a_n_34 -- a_n_37
+	a_n_37 -- a_n_38
+	a_n_39 [label=0.10832733 color="0.835 1.000 0.892" fontcolor=grey99]
+	a_n_37 -- a_n_39
+	a_n_39 -- a_n_40
+	a_n_39 -- a_n_41
+	a_n_39 -- a_n_42
+}

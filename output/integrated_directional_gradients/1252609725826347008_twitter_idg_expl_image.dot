@@ -1,0 +1,94 @@
+graph {
+	node [format=png height=0.15 nodesep=0.001 ordering=out overlap=prism overlap_scaling=0.01 ranksep=0.001 ratio=0.2 style=filled width=0.15]
+	{
+		rank=same
+		a_w_9 [label="\<user\>" color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_10 [label=sweetheart color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_14 [label=this color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_18 [label=is color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_19 [label=beautiful color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_2 [label=i color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_7 [label=wanna color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_12 [label=be color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_16 [label=part color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_20 [label=of color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_24 [label=cool color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_25 [label=asians color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_26 [label=so color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_27 [label=bad color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_4 [label="🥺" color=black fillcolor=floralwhite style="filled,solid"]
+	}
+	a_n_9 -- a_w_9
+	a_n_10 -- a_w_10
+	a_n_14 -- a_w_14
+	a_n_18 -- a_w_18
+	a_n_19 -- a_w_19
+	a_n_2 -- a_w_2
+	a_n_7 -- a_w_7
+	a_n_12 -- a_w_12
+	a_n_16 -- a_w_16
+	a_n_20 -- a_w_20
+	a_n_24 -- a_w_24
+	a_n_25 -- a_w_25
+	a_n_26 -- a_w_26
+	a_n_27 -- a_w_27
+	a_n_4 -- a_w_4
+	{
+		rank=same
+		a_n_9 [label=0.04827880 color="0.334 1.000 0.952" fontcolor=black]
+		a_n_10 [label=0.09293997 color="0.835 1.000 0.907" fontcolor=black]
+		a_n_14 [label=0.04712770 color="0.334 1.000 0.953" fontcolor=black]
+		a_n_18 [label=0.04010195 color="0.334 1.000 0.960" fontcolor=black]
+		a_n_19 [label=0.06152523 color="0.334 1.000 0.938" fontcolor=black]
+		a_n_2 [label=0.03653841 color="0.334 1.000 0.963" fontcolor=black]
+		a_n_7 [label=0.05421337 color="0.334 1.000 0.946" fontcolor=black]
+		a_n_12 [label=0.03454647 color="0.334 1.000 0.965" fontcolor=black]
+		a_n_16 [label=0.04817148 color="0.334 1.000 0.952" fontcolor=black]
+		a_n_20 [label=0.04477351 color="0.334 1.000 0.955" fontcolor=black]
+		a_n_24 [label=0.10531608 color="0.835 1.000 0.895" fontcolor=black]
+		a_n_25 [label=0.22061339 color="0.334 1.000 0.779" fontcolor=black]
+		a_n_26 [label=0.04399414 color="0.334 1.000 0.956" fontcolor=black]
+		a_n_27 [label=0.06493565 color="0.334 1.000 0.935" fontcolor=black]
+		a_n_4 [label=0.05247958 color="0.835 1.000 0.948" fontcolor=black]
+	}
+	a_n_0 [label=1.00000002 color="0.334 1.000 0.250" fontcolor=grey99]
+	a_n_1 [label=0.29236778 color="0.334 1.000 0.708" fontcolor=grey99]
+	a_n_0 -- a_n_1
+	a_n_0 -- a_n_2
+	a_n_3 [label=0.61814289 color="0.334 1.000 0.382" fontcolor=grey99]
+	a_n_0 -- a_n_3
+	a_n_0 -- a_n_4
+	a_n_5 [label=0.14146823 color="0.835 1.000 0.859" fontcolor=grey99]
+	a_n_1 -- a_n_5
+	a_n_6 [label=0.15047767 color="0.334 1.000 0.850" fontcolor=grey99]
+	a_n_1 -- a_n_6
+	a_n_3 -- a_n_7
+	a_n_8 [label=0.56362748 color="0.334 1.000 0.436" fontcolor=grey99]
+	a_n_3 -- a_n_8
+	a_n_5 -- a_n_9
+	a_n_5 -- a_n_10
+	a_n_11 [label=0.14983510 color="0.334 1.000 0.850" fontcolor=grey99]
+	a_n_6 -- a_n_11
+	a_n_8 -- a_n_12
+	a_n_13 [label=0.52879090 color="0.334 1.000 0.471" fontcolor=grey99]
+	a_n_8 -- a_n_13
+	a_n_11 -- a_n_14
+	a_n_15 [label=0.10206482 color="0.334 1.000 0.898" fontcolor=grey99]
+	a_n_11 -- a_n_15
+	a_n_13 -- a_n_16
+	a_n_17 [label=0.48034674 color="0.334 1.000 0.520" fontcolor=grey99]
+	a_n_13 -- a_n_17
+	a_n_15 -- a_n_18
+	a_n_15 -- a_n_19
+	a_n_17 -- a_n_20
+	a_n_21 [label=0.43534854 color="0.334 1.000 0.565" fontcolor=grey99]
+	a_n_17 -- a_n_21
+	a_n_22 [label=0.32595251 color="0.334 1.000 0.674" fontcolor=grey99]
+	a_n_21 -- a_n_22
+	a_n_23 [label=0.10920346 color="0.334 1.000 0.891" fontcolor=grey99]
+	a_n_21 -- a_n_23
+	a_n_22 -- a_n_24
+	a_n_22 -- a_n_25
+	a_n_23 -- a_n_26
+	a_n_23 -- a_n_27
+}

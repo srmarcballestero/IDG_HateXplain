@@ -1,0 +1,99 @@
+strict digraph "" {
+	a_n_0	[div_dir=1,
+		index=0,
+		level=3,
+		pos="2.0,3!",
+		text_span="[0, 1, 2, 3, 4]",
+		value=0.99999998];
+	PAD_e3de9b	[div_dir=1,
+		index=1,
+		level=2,
+		pos="2.0,2!",
+		text_span="[2]",
+		value=0.14224563];
+	a_n_0 -> PAD_e3de9b;
+	a_n_1	[div_dir=1,
+		index=0,
+		level=2,
+		pos="0.5,2!",
+		text_span="[0, 1]",
+		value=0.30178731];
+	a_n_0 -> a_n_1;
+	a_n_3	[div_dir=1,
+		index=2,
+		level=2,
+		pos="3.5,2!",
+		text_span="[3, 4]",
+		value=0.55544479];
+	a_n_0 -> a_n_3;
+	a_n_2	[div_dir=1,
+		index=2,
+		level=1,
+		pos="2.0,1!",
+		text_span="[2]",
+		value=0.14224563];
+	PAD_e3de9b -> a_n_2;
+	a_w_2	[div_dir=0,
+		index=2,
+		level=0,
+		pos="2,0!",
+		text_span="[2]",
+		value=that];
+	a_n_2 -> a_w_2;
+	a_n_4	[div_dir=1,
+		index=0,
+		level=1,
+		pos="0.0,1!",
+		text_span="[0]",
+		value=0.15059209];
+	a_n_1 -> a_n_4;
+	a_n_5	[div_dir=1,
+		index=1,
+		level=1,
+		pos="1.0,1!",
+		text_span="[1]",
+		value=0.15069983];
+	a_n_1 -> a_n_5;
+	a_w_4	[div_dir=0,
+		index=0,
+		level=0,
+		pos="0,0!",
+		text_span="[0]",
+		value="<user>"];
+	a_n_4 -> a_w_4;
+	a_w_5	[div_dir=0,
+		index=1,
+		level=0,
+		pos="1,0!",
+		text_span="[1]",
+		value=yeah];
+	a_n_5 -> a_w_5;
+	a_n_6	[div_dir=1,
+		index=3,
+		level=1,
+		pos="3.0,1!",
+		text_span="[3]",
+		value=0.12920477];
+	a_n_3 -> a_n_6;
+	a_n_7	[div_dir=-1,
+		index=4,
+		level=1,
+		pos="4.0,1!",
+		text_span="[4]",
+		value=0.42600054];
+	a_n_3 -> a_n_7;
+	a_w_6	[div_dir=0,
+		index=3,
+		level=0,
+		pos="3,0!",
+		text_span="[3]",
+		value=was];
+	a_n_6 -> a_w_6;
+	a_w_7	[div_dir=0,
+		index=4,
+		level=0,
+		pos="4,0!",
+		text_span="[4]",
+		value=dope];
+	a_n_7 -> a_w_7;
+}

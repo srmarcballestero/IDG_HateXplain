@@ -1,0 +1,232 @@
+strict digraph "" {
+	a_n_0	[div_dir=1,
+		index=0,
+		level=6,
+		pos="1.375,6!",
+		text_span="[0, 1, 2, 3, 4, 5, 6, 7, 8]",
+		value=0.99999999];
+	PAD_2cc6dc	[div_dir=1,
+		index=0,
+		level=5,
+		pos="0.0,5!",
+		text_span="[0]",
+		value=0.04276905];
+	a_n_0 -> PAD_2cc6dc;
+	a_n_2	[div_dir=1,
+		index=1,
+		level=5,
+		pos="2.75,5!",
+		text_span="[1, 2, 3, 4, 5, 6, 7, 8]",
+		value=0.95607149];
+	a_n_0 -> a_n_2;
+	PAD_bbb112	[div_dir=1,
+		index=0,
+		level=4,
+		pos="0.0,4!",
+		text_span="[0]",
+		value=0.04276905];
+	PAD_2cc6dc -> PAD_bbb112;
+	PAD_1881c8	[div_dir=1,
+		index=0,
+		level=3,
+		pos="0.0,3!",
+		text_span="[0]",
+		value=0.04276905];
+	PAD_bbb112 -> PAD_1881c8;
+	PAD_4d9c72	[div_dir=1,
+		index=0,
+		level=2,
+		pos="0.0,2!",
+		text_span="[0]",
+		value=0.04276905];
+	PAD_1881c8 -> PAD_4d9c72;
+	a_n_1	[div_dir=1,
+		index=0,
+		level=1,
+		pos="0.0,1!",
+		text_span="[0]",
+		value=0.04276905];
+	PAD_4d9c72 -> a_n_1;
+	a_w_1	[div_dir=0,
+		index=0,
+		level=0,
+		pos="0,0!",
+		text_span="[0]",
+		value=this];
+	a_n_1 -> a_w_1;
+	PAD_fd8f4c	[div_dir=-1,
+		index=1,
+		level=4,
+		pos="1.0,4!",
+		text_span="[1]",
+		value=0.05280919];
+	a_n_2 -> PAD_fd8f4c;
+	a_n_4	[div_dir=1,
+		index=2,
+		level=4,
+		pos="4.5,4!",
+		text_span="[2, 3, 4, 5, 6, 7, 8]",
+		value=0.90203982];
+	a_n_2 -> a_n_4;
+	PAD_b02dff	[div_dir=-1,
+		index=1,
+		level=3,
+		pos="1.0,3!",
+		text_span="[1]",
+		value=0.05280919];
+	PAD_fd8f4c -> PAD_b02dff;
+	PAD_90fd98	[div_dir=-1,
+		index=1,
+		level=2,
+		pos="1.0,2!",
+		text_span="[1]",
+		value=0.05280919];
+	PAD_b02dff -> PAD_90fd98;
+	a_n_3	[div_dir=-1,
+		index=1,
+		level=1,
+		pos="1.0,1!",
+		text_span="[1]",
+		value=0.05280919];
+	PAD_90fd98 -> a_n_3;
+	a_w_3	[div_dir=0,
+		index=1,
+		level=0,
+		pos="1,0!",
+		text_span="[1]",
+		value=is];
+	a_n_3 -> a_w_3;
+	PAD_776ef1	[div_dir=1,
+		index=2,
+		level=3,
+		pos="3.0,3!",
+		text_span="[2, 3, 4]",
+		value=0.19234615];
+	a_n_4 -> PAD_776ef1;
+	a_n_6	[div_dir=1,
+		index=3,
+		level=3,
+		pos="6.0,3!",
+		text_span="[5, 6, 7, 8]",
+		value=0.70836740];
+	a_n_4 -> a_n_6;
+	a_n_5	[div_dir=1,
+		index=2,
+		level=2,
+		pos="3.0,2!",
+		text_span="[2, 3, 4]",
+		value=0.19234615];
+	PAD_776ef1 -> a_n_5;
+	a_n_7	[div_dir=-1,
+		index=2,
+		level=1,
+		pos="2.0,1!",
+		text_span="[2]",
+		value=0.04478553];
+	a_n_5 -> a_n_7;
+	a_n_8	[div_dir=1,
+		index=3,
+		level=1,
+		pos="3.0,1!",
+		text_span="[3]",
+		value=0.06051794];
+	a_n_5 -> a_n_8;
+	a_n_9	[div_dir=1,
+		index=4,
+		level=1,
+		pos="4.0,1!",
+		text_span="[4]",
+		value=0.08698807];
+	a_n_5 -> a_n_9;
+	a_w_7	[div_dir=0,
+		index=2,
+		level=0,
+		pos="2,0!",
+		text_span="[2]",
+		value=the];
+	a_n_7 -> a_w_7;
+	a_w_8	[div_dir=0,
+		index=3,
+		level=0,
+		pos="3,0!",
+		text_span="[3]",
+		value=general];
+	a_n_8 -> a_w_8;
+	a_w_9	[div_dir=0,
+		index=4,
+		level=0,
+		pos="4,0!",
+		text_span="[4]",
+		value=attitude];
+	a_n_9 -> a_w_9;
+	PAD_135f5b	[div_dir=1,
+		index=3,
+		level=2,
+		pos="5.0,2!",
+		text_span="[5]",
+		value=0.05390653];
+	a_n_6 -> PAD_135f5b;
+	a_n_11	[div_dir=1,
+		index=4,
+		level=2,
+		pos="7.0,2!",
+		text_span="[6, 7, 8]",
+		value=0.65276099];
+	a_n_6 -> a_n_11;
+	a_n_10	[div_dir=1,
+		index=5,
+		level=1,
+		pos="5.0,1!",
+		text_span="[5]",
+		value=0.05390653];
+	PAD_135f5b -> a_n_10;
+	a_w_10	[div_dir=0,
+		index=5,
+		level=0,
+		pos="5,0!",
+		text_span="[5]",
+		value=of];
+	a_n_10 -> a_w_10;
+	a_n_12	[div_dir=1,
+		index=6,
+		level=1,
+		pos="6.0,1!",
+		text_span="[6]",
+		value=0.07610091];
+	a_n_11 -> a_n_12;
+	a_n_13	[div_dir=1,
+		index=7,
+		level=1,
+		pos="7.0,1!",
+		text_span="[7]",
+		value=0.24770085];
+	a_n_11 -> a_n_13;
+	a_n_14	[div_dir=1,
+		index=8,
+		level=1,
+		pos="8.0,1!",
+		text_span="[8]",
+		value=0.32711553];
+	a_n_11 -> a_n_14;
+	a_w_12	[div_dir=0,
+		index=6,
+		level=0,
+		pos="6,0!",
+		text_span="[6]",
+		value=all];
+	a_n_12 -> a_w_12;
+	a_w_13	[div_dir=0,
+		index=7,
+		level=0,
+		pos="7,0!",
+		text_span="[7]",
+		value=ghetto];
+	a_n_13 -> a_w_13;
+	a_w_14	[div_dir=0,
+		index=8,
+		level=0,
+		pos="8,0!",
+		text_span="[8]",
+		value=apes];
+	a_n_14 -> a_w_14;
+}

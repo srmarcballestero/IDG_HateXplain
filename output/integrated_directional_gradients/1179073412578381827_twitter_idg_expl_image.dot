@@ -1,0 +1,40 @@
+graph {
+	node [format=png height=0.15 nodesep=0.001 ordering=out overlap=prism overlap_scaling=0.01 ranksep=0.001 ratio=0.2 style=filled width=0.15]
+	{
+		rank=same
+		a_w_1 [label="\<user\>" color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_4 [label=they color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_5 [label=all color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_6 [label=look color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_8 [label=like color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_9 [label=me color=black fillcolor=floralwhite style="filled,solid"]
+	}
+	a_n_1 -- a_w_1
+	a_n_4 -- a_w_4
+	a_n_5 -- a_w_5
+	a_n_6 -- a_w_6
+	a_n_8 -- a_w_8
+	a_n_9 -- a_w_9
+	{
+		rank=same
+		a_n_1 [label=0.17347281 color="0.334 1.000 0.827" fontcolor=black]
+		a_n_4 [label=0.15150119 color="0.334 1.000 0.848" fontcolor=black]
+		a_n_5 [label=0.16142575 color="0.334 1.000 0.839" fontcolor=black]
+		a_n_6 [label=0.17268210 color="0.334 1.000 0.827" fontcolor=black]
+		a_n_8 [label=0.16573981 color="0.334 1.000 0.834" fontcolor=black]
+		a_n_9 [label=0.17150203 color="0.334 1.000 0.828" fontcolor=black]
+	}
+	a_n_0 [label=0.99999998 color="0.334 1.000 0.250" fontcolor=grey99]
+	a_n_0 -- a_n_1
+	a_n_2 [label=0.31371102 color="0.334 1.000 0.686" fontcolor=grey99]
+	a_n_0 -- a_n_2
+	a_n_3 [label=0.51164816 color="0.334 1.000 0.488" fontcolor=grey99]
+	a_n_0 -- a_n_3
+	a_n_2 -- a_n_4
+	a_n_2 -- a_n_5
+	a_n_3 -- a_n_6
+	a_n_7 [label=0.33810259 color="0.334 1.000 0.662" fontcolor=grey99]
+	a_n_3 -- a_n_7
+	a_n_7 -- a_n_8
+	a_n_7 -- a_n_9
+}

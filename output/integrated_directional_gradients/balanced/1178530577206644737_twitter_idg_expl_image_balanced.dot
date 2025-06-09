@@ -1,0 +1,50 @@
+strict digraph "" {
+	a_n_0	[div_dir=1,
+		index=0,
+		level=2,
+		pos="1.0,2!",
+		text_span="[0, 1, 2]",
+		value=1.00000000];
+	a_n_1	[div_dir=-1,
+		index=0,
+		level=1,
+		pos="0.0,1!",
+		text_span="[0]",
+		value=0.23026907];
+	a_n_0 -> a_n_1;
+	a_n_2	[div_dir=1,
+		index=1,
+		level=1,
+		pos="1.0,1!",
+		text_span="[1]",
+		value=0.49780326];
+	a_n_0 -> a_n_2;
+	a_n_3	[div_dir=1,
+		index=2,
+		level=1,
+		pos="2.0,1!",
+		text_span="[2]",
+		value=0.27120967];
+	a_n_0 -> a_n_3;
+	a_w_1	[div_dir=0,
+		index=0,
+		level=0,
+		pos="0,0!",
+		text_span="[0]",
+		value="<user>"];
+	a_n_1 -> a_w_1;
+	a_w_2	[div_dir=0,
+		index=1,
+		level=0,
+		pos="1,0!",
+		text_span="[1]",
+		value=dm];
+	a_n_2 -> a_w_2;
+	a_w_3	[div_dir=0,
+		index=2,
+		level=0,
+		pos="2,0!",
+		text_span="[2]",
+		value=me];
+	a_n_3 -> a_w_3;
+}

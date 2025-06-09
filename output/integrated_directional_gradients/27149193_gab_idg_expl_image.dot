@@ -1,0 +1,30 @@
+graph {
+	node [format=png height=0.15 nodesep=0.001 ordering=out overlap=prism overlap_scaling=0.01 ranksep=0.001 ratio=0.2 style=filled width=0.15]
+	{
+		rank=same
+		a_w_2 [label=enjoy color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_4 [label=your color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_5 [label=kike color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_6 [label=faith color=black fillcolor=floralwhite style="filled,solid"]
+	}
+	a_n_2 -- a_w_2
+	a_n_4 -- a_w_4
+	a_n_5 -- a_w_5
+	a_n_6 -- a_w_6
+	{
+		rank=same
+		a_n_2 [label=0.12701618 color="0.334 1.000 0.873" fontcolor=black]
+		a_n_4 [label=0.13766370 color="0.334 1.000 0.862" fontcolor=black]
+		a_n_5 [label=0.56225801 color="0.334 1.000 0.438" fontcolor=black]
+		a_n_6 [label=0.15724617 color="0.334 1.000 0.843" fontcolor=black]
+	}
+	a_n_0 [label=0.99999999 color="0.334 1.000 0.250" fontcolor=grey99]
+	a_n_1 [label=0.99481147 color="0.334 1.000 0.250" fontcolor=grey99]
+	a_n_0 -- a_n_1
+	a_n_1 -- a_n_2
+	a_n_3 [label=0.86260677 color="0.334 1.000 0.250" fontcolor=grey99]
+	a_n_1 -- a_n_3
+	a_n_3 -- a_n_4
+	a_n_3 -- a_n_5
+	a_n_3 -- a_n_6
+}

@@ -1,0 +1,120 @@
+strict digraph "" {
+	a_n_0	[div_dir=1,
+		index=0,
+		level=4,
+		pos="2.75,4!",
+		text_span="[0, 1, 2, 3, 4]",
+		value=0.99999998];
+	PAD_b3d043	[div_dir=-1,
+		index=1,
+		level=3,
+		pos="4.0,3!",
+		text_span="[4]",
+		value=0.10890094];
+	a_n_0 -> PAD_b3d043;
+	a_n_1	[div_dir=1,
+		index=0,
+		level=3,
+		pos="1.5,3!",
+		text_span="[0, 1, 2, 3]",
+		value=0.88802745];
+	a_n_0 -> a_n_1;
+	PAD_623598	[div_dir=-1,
+		index=3,
+		level=2,
+		pos="4.0,2!",
+		text_span="[4]",
+		value=0.10890094];
+	PAD_b3d043 -> PAD_623598;
+	a_n_2	[div_dir=-1,
+		index=4,
+		level=1,
+		pos="4.0,1!",
+		text_span="[4]",
+		value=0.10890094];
+	PAD_623598 -> a_n_2;
+	a_w_2	[div_dir=0,
+		index=4,
+		level=0,
+		pos="4,0!",
+		text_span="[4]",
+		value=again];
+	a_n_2 -> a_w_2;
+	PAD_ae16df	[div_dir=1,
+		index=0,
+		level=2,
+		pos="0.0,2!",
+		text_span="[0]",
+		value=0.10313484];
+	a_n_1 -> PAD_ae16df;
+	PAD_07e63c	[div_dir=-1,
+		index=2,
+		level=2,
+		pos="3.0,2!",
+		text_span="[3]",
+		value=0.14574001];
+	a_n_1 -> PAD_07e63c;
+	a_n_4	[div_dir=1,
+		index=1,
+		level=2,
+		pos="1.5,2!",
+		text_span="[1, 2]",
+		value=0.63577942];
+	a_n_1 -> a_n_4;
+	a_n_3	[div_dir=1,
+		index=0,
+		level=1,
+		pos="0.0,1!",
+		text_span="[0]",
+		value=0.10313484];
+	PAD_ae16df -> a_n_3;
+	a_w_3	[div_dir=0,
+		index=0,
+		level=0,
+		pos="0,0!",
+		text_span="[0]",
+		value=the];
+	a_n_3 -> a_w_3;
+	a_n_5	[div_dir=-1,
+		index=3,
+		level=1,
+		pos="3.0,1!",
+		text_span="[3]",
+		value=0.14574001];
+	PAD_07e63c -> a_n_5;
+	a_w_5	[div_dir=0,
+		index=3,
+		level=0,
+		pos="3,0!",
+		text_span="[3]",
+		value=strikes];
+	a_n_5 -> a_w_5;
+	a_n_6	[div_dir=1,
+		index=1,
+		level=1,
+		pos="1.0,1!",
+		text_span="[1]",
+		value=0.45652407];
+	a_n_4 -> a_n_6;
+	a_n_7	[div_dir=1,
+		index=2,
+		level=1,
+		pos="2.0,1!",
+		text_span="[2]",
+		value=0.17565607];
+	a_n_4 -> a_n_7;
+	a_w_6	[div_dir=0,
+		index=1,
+		level=0,
+		pos="1,0!",
+		text_span="[1]",
+		value=nigger];
+	a_n_6 -> a_w_6;
+	a_w_7	[div_dir=0,
+		index=2,
+		level=0,
+		pos="2,0!",
+		text_span="[2]",
+		value=tax];
+	a_n_7 -> a_w_7;
+}

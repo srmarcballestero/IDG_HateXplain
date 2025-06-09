@@ -1,0 +1,28 @@
+graph {
+	node [format=png height=0.15 nodesep=0.001 ordering=out overlap=prism overlap_scaling=0.01 ranksep=0.001 ratio=0.2 style=filled width=0.15]
+	{
+		rank=same
+		a_w_1 [label=just color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_3 [label=call color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_4 [label=them color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_5 [label=jews color=black fillcolor=floralwhite style="filled,solid"]
+	}
+	a_n_1 -- a_w_1
+	a_n_3 -- a_w_3
+	a_n_4 -- a_w_4
+	a_n_5 -- a_w_5
+	{
+		rank=same
+		a_n_1 [label=0.15322213 color="0.334 1.000 0.847" fontcolor=black]
+		a_n_3 [label=0.17167957 color="0.334 1.000 0.828" fontcolor=black]
+		a_n_4 [label=0.21351300 color="0.334 1.000 0.786" fontcolor=black]
+		a_n_5 [label=0.45909221 color="0.835 1.000 0.541" fontcolor=black]
+	}
+	a_n_0 [label=0.99999997 color="0.835 1.000 0.250" fontcolor=grey99]
+	a_n_0 -- a_n_1
+	a_n_2 [label=0.84573030 color="0.835 1.000 0.250" fontcolor=grey99]
+	a_n_0 -- a_n_2
+	a_n_2 -- a_n_3
+	a_n_2 -- a_n_4
+	a_n_2 -- a_n_5
+}

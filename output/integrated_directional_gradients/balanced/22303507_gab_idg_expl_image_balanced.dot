@@ -1,0 +1,260 @@
+strict digraph "" {
+	a_n_0	[div_dir=-1,
+		index=0,
+		level=6,
+		pos="2.96875,6!",
+		text_span="[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",
+		value=0.99999997];
+	PAD_aa7eeb	[div_dir=-1,
+		index=0,
+		level=5,
+		pos="1.0,5!",
+		text_span="[0, 1, 2]",
+		value=0.47486067];
+	a_n_0 -> PAD_aa7eeb;
+	a_n_2	[div_dir=1,
+		index=1,
+		level=5,
+		pos="4.9375,5!",
+		text_span="[3, 4, 5, 6, 7, 8, 9, 10]",
+		value=0.52487881];
+	a_n_0 -> a_n_2;
+	PAD_64fd9f	[div_dir=-1,
+		index=0,
+		level=4,
+		pos="1.0,4!",
+		text_span="[0, 1, 2]",
+		value=0.47486067];
+	PAD_aa7eeb -> PAD_64fd9f;
+	PAD_92eec8	[div_dir=-1,
+		index=0,
+		level=3,
+		pos="1.0,3!",
+		text_span="[0, 1, 2]",
+		value=0.47486067];
+	PAD_64fd9f -> PAD_92eec8;
+	a_n_1	[div_dir=-1,
+		index=0,
+		level=2,
+		pos="1.0,2!",
+		text_span="[0, 1, 2]",
+		value=0.47486067];
+	PAD_92eec8 -> a_n_1;
+	a_n_3	[div_dir=-1,
+		index=0,
+		level=1,
+		pos="0.0,1!",
+		text_span="[0]",
+		value=0.06994650];
+	a_n_1 -> a_n_3;
+	a_n_4	[div_dir=-1,
+		index=1,
+		level=1,
+		pos="1.0,1!",
+		text_span="[1]",
+		value=0.08769814];
+	a_n_1 -> a_n_4;
+	a_n_5	[div_dir=-1,
+		index=2,
+		level=1,
+		pos="2.0,1!",
+		text_span="[2]",
+		value=0.31670228];
+	a_n_1 -> a_n_5;
+	a_w_3	[div_dir=0,
+		index=0,
+		level=0,
+		pos="0,0!",
+		text_span="[0]",
+		value=your];
+	a_n_3 -> a_w_3;
+	a_w_4	[div_dir=0,
+		index=1,
+		level=0,
+		pos="1,0!",
+		text_span="[1]",
+		value=friendly];
+	a_n_4 -> a_w_4;
+	a_w_5	[div_dir=0,
+		index=2,
+		level=0,
+		pos="2,0!",
+		text_span="[2]",
+		value=moslem];
+	a_n_5 -> a_w_5;
+	PAD_060dc3	[div_dir=1,
+		index=1,
+		level=4,
+		pos="3.0,4!",
+		text_span="[3]",
+		value=0.04302708];
+	a_n_2 -> PAD_060dc3;
+	a_n_7	[div_dir=1,
+		index=2,
+		level=4,
+		pos="6.875,4!",
+		text_span="[4, 5, 6, 7, 8, 9, 10]",
+		value=0.48180374];
+	a_n_2 -> a_n_7;
+	PAD_b932dd	[div_dir=1,
+		index=1,
+		level=3,
+		pos="3.0,3!",
+		text_span="[3]",
+		value=0.04302708];
+	PAD_060dc3 -> PAD_b932dd;
+	PAD_408282	[div_dir=1,
+		index=1,
+		level=2,
+		pos="3.0,2!",
+		text_span="[3]",
+		value=0.04302708];
+	PAD_b932dd -> PAD_408282;
+	a_n_6	[div_dir=1,
+		index=3,
+		level=1,
+		pos="3.0,1!",
+		text_span="[3]",
+		value=0.04302708];
+	PAD_408282 -> a_n_6;
+	a_w_6	[div_dir=0,
+		index=3,
+		level=0,
+		pos="3,0!",
+		text_span="[3]",
+		value=who];
+	a_n_6 -> a_w_6;
+	a_n_8	[div_dir=1,
+		index=2,
+		level=3,
+		pos="6.875,3!",
+		text_span="[4, 5, 6, 7, 8, 9, 10]",
+		value=0.48177769];
+	a_n_7 -> a_n_8;
+	PAD_763f98	[div_dir=1,
+		index=2,
+		level=2,
+		pos="4.0,2!",
+		text_span="[4]",
+		value=0.04921669];
+	a_n_8 -> PAD_763f98;
+	PAD_965487	[div_dir=1,
+		index=4,
+		level=2,
+		pos="8.0,2!",
+		text_span="[8]",
+		value=0.05005495];
+	a_n_8 -> PAD_965487;
+	a_n_10	[div_dir=-1,
+		index=3,
+		level=2,
+		pos="6.0,2!",
+		text_span="[5, 6, 7]",
+		value=0.28878401];
+	a_n_8 -> a_n_10;
+	a_n_12	[div_dir=-1,
+		index=5,
+		level=2,
+		pos="9.5,2!",
+		text_span="[9, 10]",
+		value=0.09369601];
+	a_n_8 -> a_n_12;
+	a_n_9	[div_dir=1,
+		index=4,
+		level=1,
+		pos="4.0,1!",
+		text_span="[4]",
+		value=0.04921669];
+	PAD_763f98 -> a_n_9;
+	a_w_9	[div_dir=0,
+		index=4,
+		level=0,
+		pos="4,0!",
+		text_span="[4]",
+		value=went];
+	a_n_9 -> a_w_9;
+	a_n_11	[div_dir=1,
+		index=8,
+		level=1,
+		pos="8.0,1!",
+		text_span="[8]",
+		value=0.05005495];
+	PAD_965487 -> a_n_11;
+	a_w_11	[div_dir=0,
+		index=8,
+		level=0,
+		pos="8,0!",
+		text_span="[8]",
+		value=today];
+	a_n_11 -> a_w_11;
+	a_n_13	[div_dir=-1,
+		index=5,
+		level=1,
+		pos="5.0,1!",
+		text_span="[5]",
+		value=0.03995917];
+	a_n_10 -> a_n_13;
+	a_n_14	[div_dir=1,
+		index=6,
+		level=1,
+		pos="6.0,1!",
+		text_span="[6]",
+		value=0.10468115];
+	a_n_10 -> a_n_14;
+	a_n_15	[div_dir=-1,
+		index=7,
+		level=1,
+		pos="7.0,1!",
+		text_span="[7]",
+		value=0.14413374];
+	a_n_10 -> a_n_15;
+	a_w_13	[div_dir=0,
+		index=5,
+		level=0,
+		pos="5,0!",
+		text_span="[5]",
+		value=all];
+	a_n_13 -> a_w_13;
+	a_w_14	[div_dir=0,
+		index=6,
+		level=0,
+		pos="6,0!",
+		text_span="[6]",
+		value=allah];
+	a_n_14 -> a_w_14;
+	a_w_15	[div_dir=0,
+		index=7,
+		level=0,
+		pos="7,0!",
+		text_span="[7]",
+		value=akhbar];
+	a_n_15 -> a_w_15;
+	a_n_16	[div_dir=1,
+		index=9,
+		level=1,
+		pos="9.0,1!",
+		text_span="[9]",
+		value=0.03197562];
+	a_n_12 -> a_n_16;
+	a_n_17	[div_dir=-1,
+		index=10,
+		level=1,
+		pos="10.0,1!",
+		text_span="[10]",
+		value=0.06160878];
+	a_n_12 -> a_n_17;
+	a_w_16	[div_dir=0,
+		index=9,
+		level=0,
+		pos="9,0!",
+		text_span="[9]",
+		value=in];
+	a_n_16 -> a_w_16;
+	a_w_17	[div_dir=0,
+		index=10,
+		level=0,
+		pos="10,0!",
+		text_span="[10]",
+		value=france];
+	a_n_17 -> a_w_17;
+}

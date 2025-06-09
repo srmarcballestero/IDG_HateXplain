@@ -1,0 +1,30 @@
+graph {
+	node [format=png height=0.15 nodesep=0.001 ordering=out overlap=prism overlap_scaling=0.01 ranksep=0.001 ratio=0.2 style=filled width=0.15]
+	{
+		rank=same
+		a_w_1 [label=those color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_3 [label=are color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_5 [label=called color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_6 [label=niglets color=black fillcolor=floralwhite style="filled,solid"]
+	}
+	a_n_1 -- a_w_1
+	a_n_3 -- a_w_3
+	a_n_5 -- a_w_5
+	a_n_6 -- a_w_6
+	{
+		rank=same
+		a_n_1 [label=0.09332540 color="0.334 1.000 0.907" fontcolor=black]
+		a_n_3 [label=0.09723996 color="0.334 1.000 0.903" fontcolor=black]
+		a_n_5 [label=0.12502332 color="0.334 1.000 0.875" fontcolor=black]
+		a_n_6 [label=0.67802501 color="0.334 1.000 0.322" fontcolor=black]
+	}
+	a_n_0 [label=0.99999998 color="0.334 1.000 0.250" fontcolor=grey99]
+	a_n_0 -- a_n_1
+	a_n_2 [label=0.90454751 color="0.334 1.000 0.250" fontcolor=grey99]
+	a_n_0 -- a_n_2
+	a_n_2 -- a_n_3
+	a_n_4 [label=0.80520766 color="0.334 1.000 0.250" fontcolor=grey99]
+	a_n_2 -- a_n_4
+	a_n_4 -- a_n_5
+	a_n_4 -- a_n_6
+}

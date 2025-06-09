@@ -1,0 +1,71 @@
+strict digraph "" {
+	a_n_0	[div_dir=1,
+		index=0,
+		level=4,
+		pos="0.75,4!",
+		text_span="[0, 1, 2]",
+		value=1.00000003];
+	a_n_1	[div_dir=1,
+		index=0,
+		level=3,
+		pos="0.75,3!",
+		text_span="[0, 1, 2]",
+		value=0.99721747];
+	a_n_0 -> a_n_1;
+	PAD_937830	[div_dir=-1,
+		index=0,
+		level=2,
+		pos="0.0,2!",
+		text_span="[0]",
+		value=0.18576562];
+	a_n_1 -> PAD_937830;
+	a_n_3	[div_dir=1,
+		index=1,
+		level=2,
+		pos="1.5,2!",
+		text_span="[1, 2]",
+		value=0.80866930];
+	a_n_1 -> a_n_3;
+	a_n_2	[div_dir=-1,
+		index=0,
+		level=1,
+		pos="0.0,1!",
+		text_span="[0]",
+		value=0.18576562];
+	PAD_937830 -> a_n_2;
+	a_w_2	[div_dir=0,
+		index=0,
+		level=0,
+		pos="0,0!",
+		text_span="[0]",
+		value=keep];
+	a_n_2 -> a_w_2;
+	a_n_4	[div_dir=1,
+		index=1,
+		level=1,
+		pos="1.0,1!",
+		text_span="[1]",
+		value=0.13671731];
+	a_n_3 -> a_n_4;
+	a_n_5	[div_dir=1,
+		index=2,
+		level=1,
+		pos="2.0,1!",
+		text_span="[2]",
+		value=0.66866580];
+	a_n_3 -> a_n_5;
+	a_w_4	[div_dir=0,
+		index=1,
+		level=0,
+		pos="1,0!",
+		text_span="[1]",
+		value=waiting];
+	a_n_4 -> a_w_4;
+	a_w_5	[div_dir=0,
+		index=2,
+		level=0,
+		pos="2,0!",
+		text_span="[2]",
+		value=sheboon];
+	a_n_5 -> a_w_5;
+}

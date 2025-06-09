@@ -1,0 +1,148 @@
+strict digraph "" {
+	a_n_0	[div_dir=-1,
+		index=0,
+		level=4,
+		pos="1.25,4!",
+		text_span="[0, 1, 2, 3, 4, 5, 6]",
+		value=1.00000004];
+	PAD_1e08b1	[div_dir=-1,
+		index=0,
+		level=3,
+		pos="0.0,3!",
+		text_span="[0]",
+		value=0.08333029];
+	a_n_0 -> PAD_1e08b1;
+	a_n_2	[div_dir=1,
+		index=1,
+		level=3,
+		pos="2.5,3!",
+		text_span="[1, 2, 3, 4, 5, 6]",
+		value=0.91666698];
+	a_n_0 -> a_n_2;
+	PAD_a0f06e	[div_dir=-1,
+		index=0,
+		level=2,
+		pos="0.0,2!",
+		text_span="[0]",
+		value=0.08333029];
+	PAD_1e08b1 -> PAD_a0f06e;
+	a_n_1	[div_dir=-1,
+		index=0,
+		level=1,
+		pos="0.0,1!",
+		text_span="[0]",
+		value=0.08333029];
+	PAD_a0f06e -> a_n_1;
+	a_w_1	[div_dir=0,
+		index=0,
+		level=0,
+		pos="0,0!",
+		text_span="[0]",
+		value=how];
+	a_n_1 -> a_w_1;
+	PAD_4920d5	[div_dir=1,
+		index=1,
+		level=2,
+		pos="1.0,2!",
+		text_span="[1]",
+		value=0.05621316];
+	a_n_2 -> PAD_4920d5;
+	PAD_2d82b6	[div_dir=-1,
+		index=2,
+		level=2,
+		pos="2.0,2!",
+		text_span="[2]",
+		value=0.06951093];
+	a_n_2 -> PAD_2d82b6;
+	a_n_5	[div_dir=1,
+		index=3,
+		level=2,
+		pos="4.5,2!",
+		text_span="[3, 4, 5, 6]",
+		value=0.79066330];
+	a_n_2 -> a_n_5;
+	a_n_3	[div_dir=1,
+		index=1,
+		level=1,
+		pos="1.0,1!",
+		text_span="[1]",
+		value=0.05621316];
+	PAD_4920d5 -> a_n_3;
+	a_w_3	[div_dir=0,
+		index=1,
+		level=0,
+		pos="1,0!",
+		text_span="[1]",
+		value=do];
+	a_n_3 -> a_w_3;
+	a_n_4	[div_dir=-1,
+		index=2,
+		level=1,
+		pos="2.0,1!",
+		text_span="[2]",
+		value=0.06951093];
+	PAD_2d82b6 -> a_n_4;
+	a_w_4	[div_dir=0,
+		index=2,
+		level=0,
+		pos="2,0!",
+		text_span="[2]",
+		value=you];
+	a_n_4 -> a_w_4;
+	a_n_6	[div_dir=-1,
+		index=3,
+		level=1,
+		pos="3.0,1!",
+		text_span="[3]",
+		value=0.07964725];
+	a_n_5 -> a_n_6;
+	a_n_7	[div_dir=1,
+		index=4,
+		level=1,
+		pos="4.0,1!",
+		text_span="[4]",
+		value=0.07614935];
+	a_n_5 -> a_n_7;
+	a_n_8	[div_dir=-1,
+		index=5,
+		level=1,
+		pos="5.0,1!",
+		text_span="[5]",
+		value=0.16756018];
+	a_n_5 -> a_n_8;
+	a_n_9	[div_dir=1,
+		index=6,
+		level=1,
+		pos="6.0,1!",
+		text_span="[6]",
+		value=0.46694682];
+	a_n_5 -> a_n_9;
+	a_w_6	[div_dir=0,
+		index=3,
+		level=0,
+		pos="3,0!",
+		text_span="[3]",
+		value=see];
+	a_n_6 -> a_w_6;
+	a_w_7	[div_dir=0,
+		index=4,
+		level=0,
+		pos="4,0!",
+		text_span="[4]",
+		value=or];
+	a_n_7 -> a_w_7;
+	a_w_8	[div_dir=0,
+		index=5,
+		level=0,
+		pos="5,0!",
+		text_span="[5]",
+		value=treat];
+	a_n_8 -> a_w_8;
+	a_w_9	[div_dir=0,
+		index=6,
+		level=0,
+		pos="6,0!",
+		text_span="[6]",
+		value=homosexuals];
+	a_n_9 -> a_w_9;
+}

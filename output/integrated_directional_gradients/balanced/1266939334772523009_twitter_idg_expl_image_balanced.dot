@@ -1,0 +1,141 @@
+strict digraph "" {
+	a_n_0	[div_dir=1,
+		index=0,
+		level=4,
+		pos="2.0833333333333335,4!",
+		text_span="[0, 1, 2, 3, 4, 5]",
+		value=0.99999998];
+	PAD_ba19ec	[div_dir=1,
+		index=1,
+		level=3,
+		pos="2.0,3!",
+		text_span="[2]",
+		value=0.07671960];
+	a_n_0 -> PAD_ba19ec;
+	PAD_139539	[div_dir=-1,
+		index=0,
+		level=3,
+		pos="0.5,3!",
+		text_span="[0, 1]",
+		value=0.18186886];
+	a_n_0 -> PAD_139539;
+	a_n_3	[div_dir=1,
+		index=2,
+		level=3,
+		pos="3.75,3!",
+		text_span="[3, 4, 5]",
+		value=0.73835271];
+	a_n_0 -> a_n_3;
+	PAD_c9e44e	[div_dir=1,
+		index=1,
+		level=2,
+		pos="2.0,2!",
+		text_span="[2]",
+		value=0.07671960];
+	PAD_ba19ec -> PAD_c9e44e;
+	a_n_2	[div_dir=1,
+		index=2,
+		level=1,
+		pos="2.0,1!",
+		text_span="[2]",
+		value=0.07671960];
+	PAD_c9e44e -> a_n_2;
+	a_w_2	[div_dir=0,
+		index=2,
+		level=0,
+		pos="2,0!",
+		text_span="[2]",
+		value=i];
+	a_n_2 -> a_w_2;
+	a_n_1	[div_dir=-1,
+		index=0,
+		level=2,
+		pos="0.5,2!",
+		text_span="[0, 1]",
+		value=0.18186886];
+	PAD_139539 -> a_n_1;
+	a_n_4	[div_dir=-1,
+		index=0,
+		level=1,
+		pos="0.0,1!",
+		text_span="[0]",
+		value=0.07988097];
+	a_n_1 -> a_n_4;
+	a_n_5	[div_dir=-1,
+		index=1,
+		level=1,
+		pos="1.0,1!",
+		text_span="[1]",
+		value=0.10136758];
+	a_n_1 -> a_n_5;
+	a_w_4	[div_dir=0,
+		index=0,
+		level=0,
+		pos="0,0!",
+		text_span="[0]",
+		value="<user>"];
+	a_n_4 -> a_w_4;
+	a_w_5	[div_dir=0,
+		index=1,
+		level=0,
+		pos="1,0!",
+		text_span="[1]",
+		value=tonight];
+	a_n_5 -> a_w_5;
+	PAD_cc77e7	[div_dir=1,
+		index=2,
+		level=2,
+		pos="3.0,2!",
+		text_span="[3]",
+		value=0.15797803];
+	a_n_3 -> PAD_cc77e7;
+	a_n_7	[div_dir=1,
+		index=3,
+		level=2,
+		pos="4.5,2!",
+		text_span="[4, 5]",
+		value=0.57623474];
+	a_n_3 -> a_n_7;
+	a_n_6	[div_dir=1,
+		index=3,
+		level=1,
+		pos="3.0,1!",
+		text_span="[3]",
+		value=0.15797803];
+	PAD_cc77e7 -> a_n_6;
+	a_w_6	[div_dir=0,
+		index=3,
+		level=0,
+		pos="3,0!",
+		text_span="[3]",
+		value=ate];
+	a_n_6 -> a_w_6;
+	a_n_8	[div_dir=1,
+		index=4,
+		level=1,
+		pos="4.0,1!",
+		text_span="[4]",
+		value=0.45928153];
+	a_n_7 -> a_n_8;
+	a_n_9	[div_dir=1,
+		index=5,
+		level=1,
+		pos="5.0,1!",
+		text_span="[5]",
+		value=0.11216664];
+	a_n_7 -> a_n_9;
+	a_w_8	[div_dir=0,
+		index=4,
+		level=0,
+		pos="4,0!",
+		text_span="[4]",
+		value=kike];
+	a_n_8 -> a_w_8;
+	a_w_9	[div_dir=0,
+		index=5,
+		level=0,
+		pos="5,0!",
+		text_span="[5]",
+		value="<time>"];
+	a_n_9 -> a_w_9;
+}

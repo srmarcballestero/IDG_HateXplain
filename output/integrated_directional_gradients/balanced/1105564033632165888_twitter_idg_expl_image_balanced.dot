@@ -1,0 +1,141 @@
+strict digraph "" {
+	a_n_0	[div_dir=-1,
+		index=0,
+		level=5,
+		pos="0.9375,5!",
+		text_span="[0, 1, 2, 3, 4]",
+		value=1.00000000];
+	PAD_2bd96d	[div_dir=1,
+		index=0,
+		level=4,
+		pos="0.0,4!",
+		text_span="[0]",
+		value=0.16854512];
+	a_n_0 -> PAD_2bd96d;
+	a_n_2	[div_dir=-1,
+		index=1,
+		level=4,
+		pos="1.875,4!",
+		text_span="[1, 2, 3, 4]",
+		value=0.83079432];
+	a_n_0 -> a_n_2;
+	PAD_e570a8	[div_dir=1,
+		index=0,
+		level=3,
+		pos="0.0,3!",
+		text_span="[0]",
+		value=0.16854512];
+	PAD_2bd96d -> PAD_e570a8;
+	PAD_c7f347	[div_dir=1,
+		index=0,
+		level=2,
+		pos="0.0,2!",
+		text_span="[0]",
+		value=0.16854512];
+	PAD_e570a8 -> PAD_c7f347;
+	a_n_1	[div_dir=1,
+		index=0,
+		level=1,
+		pos="0.0,1!",
+		text_span="[0]",
+		value=0.16854512];
+	PAD_c7f347 -> a_n_1;
+	a_w_1	[div_dir=0,
+		index=0,
+		level=0,
+		pos="0,0!",
+		text_span="[0]",
+		value="<user>"];
+	a_n_1 -> a_w_1;
+	PAD_a61567	[div_dir=-1,
+		index=1,
+		level=3,
+		pos="1.0,3!",
+		text_span="[1]",
+		value=0.16778864];
+	a_n_2 -> PAD_a61567;
+	a_n_4	[div_dir=-1,
+		index=2,
+		level=3,
+		pos="2.75,3!",
+		text_span="[2, 3, 4]",
+		value=0.66226919];
+	a_n_2 -> a_n_4;
+	PAD_9675ae	[div_dir=-1,
+		index=1,
+		level=2,
+		pos="1.0,2!",
+		text_span="[1]",
+		value=0.16778864];
+	PAD_a61567 -> PAD_9675ae;
+	a_n_3	[div_dir=-1,
+		index=1,
+		level=1,
+		pos="1.0,1!",
+		text_span="[1]",
+		value=0.16778864];
+	PAD_9675ae -> a_n_3;
+	a_w_3	[div_dir=0,
+		index=1,
+		level=0,
+		pos="1,0!",
+		text_span="[1]",
+		value=reported];
+	a_n_3 -> a_w_3;
+	PAD_6960a7	[div_dir=1,
+		index=2,
+		level=2,
+		pos="2.0,2!",
+		text_span="[2]",
+		value=0.13917315];
+	a_n_4 -> PAD_6960a7;
+	a_n_6	[div_dir=-1,
+		index=3,
+		level=2,
+		pos="3.5,2!",
+		text_span="[3, 4]",
+		value=0.52227334];
+	a_n_4 -> a_n_6;
+	a_n_5	[div_dir=1,
+		index=2,
+		level=1,
+		pos="2.0,1!",
+		text_span="[2]",
+		value=0.13917315];
+	PAD_6960a7 -> a_n_5;
+	a_w_5	[div_dir=0,
+		index=2,
+		level=0,
+		pos="2,0!",
+		text_span="[2]",
+		value=for];
+	a_n_5 -> a_w_5;
+	a_n_7	[div_dir=1,
+		index=3,
+		level=1,
+		pos="3.0,1!",
+		text_span="[3]",
+		value=0.21936247];
+	a_n_6 -> a_n_7;
+	a_n_8	[div_dir=-1,
+		index=4,
+		level=1,
+		pos="4.0,1!",
+		text_span="[4]",
+		value=0.30130657];
+	a_n_6 -> a_n_8;
+	a_w_7	[div_dir=0,
+		index=3,
+		level=0,
+		pos="3,0!",
+		text_span="[3]",
+		value=targeted];
+	a_n_7 -> a_w_7;
+	a_w_8	[div_dir=0,
+		index=4,
+		level=0,
+		pos="4,0!",
+		text_span="[4]",
+		value=harassment];
+	a_n_8 -> a_w_8;
+}

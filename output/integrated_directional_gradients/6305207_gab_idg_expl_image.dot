@@ -1,0 +1,48 @@
+graph {
+	node [format=png height=0.15 nodesep=0.001 ordering=out overlap=prism overlap_scaling=0.01 ranksep=0.001 ratio=0.2 style=filled width=0.15]
+	{
+		rank=same
+		a_w_1 [label=trump color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_3 [label=is color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_5 [label=a color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_6 [label=pedophile color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_10 [label=kike color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_11 [label=verified color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_8 [label=power color=black fillcolor=floralwhite style="filled,solid"]
+		a_w_9 [label=user color=black fillcolor=floralwhite style="filled,solid"]
+	}
+	a_n_1 -- a_w_1
+	a_n_3 -- a_w_3
+	a_n_5 -- a_w_5
+	a_n_6 -- a_w_6
+	a_n_10 -- a_w_10
+	a_n_11 -- a_w_11
+	a_n_8 -- a_w_8
+	a_n_9 -- a_w_9
+	{
+		rank=same
+		a_n_1 [label=0.05582841 color="0.835 1.000 0.944" fontcolor=black]
+		a_n_3 [label=0.05099097 color="0.835 1.000 0.949" fontcolor=black]
+		a_n_5 [label=0.05756495 color="0.334 1.000 0.942" fontcolor=black]
+		a_n_6 [label=0.24914536 color="0.334 1.000 0.751" fontcolor=black]
+		a_n_10 [label=0.32282736 color="0.334 1.000 0.677" fontcolor=black]
+		a_n_11 [label=0.10163907 color="0.334 1.000 0.898" fontcolor=black]
+		a_n_8 [label=0.07966018 color="0.334 1.000 0.920" fontcolor=black]
+		a_n_9 [label=0.07184335 color="0.334 1.000 0.928" fontcolor=black]
+	}
+	a_n_0 [label=0.99999999 color="0.334 1.000 0.250" fontcolor=grey99]
+	a_n_0 -- a_n_1
+	a_n_2 [label=0.94188484 color="0.334 1.000 0.250" fontcolor=grey99]
+	a_n_0 -- a_n_2
+	a_n_2 -- a_n_3
+	a_n_4 [label=0.88846004 color="0.334 1.000 0.250" fontcolor=grey99]
+	a_n_2 -- a_n_4
+	a_n_4 -- a_n_5
+	a_n_4 -- a_n_6
+	a_n_7 [label=0.42765141 color="0.334 1.000 0.572" fontcolor=grey99]
+	a_n_4 -- a_n_7
+	a_n_4 -- a_n_8
+	a_n_4 -- a_n_9
+	a_n_7 -- a_n_10
+	a_n_7 -- a_n_11
+}
