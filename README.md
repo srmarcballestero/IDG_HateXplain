@@ -51,3 +51,24 @@ Use the `CITATION.cff` file or the following BibTeX reference:
   url          = {https://srmarcballestero.github.io}
 }
 ```
+
+## 🤝 Contributing
+
+This project was developed as part of a Master's Thesis. If you'd like to build on it, feel free to fork the repo or open an issue.
+
+## 📬 Contact
+If you have any questions, feedback, or collaboration ideas, feel free to reach out to me:
+
+- Email (*): marc.ballestero@ub.edu
+
+- Website: [My personal website](https://srmarcballestero.github.io)
+
+- GitHub: [@srmarcballestero](https://github.com/srmarcballestero)
+
+- LinkedIn: [Marc Ballestero Ribó](https://linkedin.com/in/marc-ballestero-ribó)
+
+(*) This account will soon be deactivated.
+
+## 🙏 Acknowledgements
+
+This work was carried out under the supervision of Dr. Daniel Ortiz Martínez and Prof. Dr. Petia Radeva. We thank the HateXplain authors for the dataset, and the developers of IDG for the codebase of the method.
