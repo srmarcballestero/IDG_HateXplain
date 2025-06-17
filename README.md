@@ -22,7 +22,7 @@ Explainability methods are key for understanding the decision-making processes b
 ├── docs/                # Thesis report and defence slides
 ├── etc/                 # Extra data, report figures, etc.
 ├── LICENSE              # License file
-├── models/              # Saved model checkpoints
+├── models/              # Saved model checkpoints (not publicly available)
 ├── notebooks/           # Jupyter notebooks for experiments
 ├── output/              # Generated results
 ├── README.md            # You're here
