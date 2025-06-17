@@ -59,7 +59,7 @@ This project was developed as part of a Master's Thesis. If you'd like to build 
 ## 📬 Contact
 If you have any questions, feedback, or collaboration ideas, feel free to reach out to me:
 
-- Email (*): marc.ballestero@ub.edu
+- Email (*): [marcballestero@ub.edu](mailto:marcballestero@ub.edu)
 
 - Website: [My personal website](https://srmarcballestero.github.io)
 
