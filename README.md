@@ -7,7 +7,7 @@ This repository contains the code developed for my Master's Thesis "Explaining W
 - **Institution**: University of Barcelona
 - **Advisors**: Dr. Daniel Ortiz-Martínez, Prof. Dr. Petia Radeva.
 - **Thesis Period**: September 2024 - June 2025.
-- **Qualification**: TBD.
+- **Qualification**: 10 / 10.
 
 
 ## 🧾 Abstract
