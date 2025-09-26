@@ -36,19 +36,26 @@ Please cite this thesis using the following references:
 
 ### **Written Report**
 ```bibtex
-TBD
+@masterthesis{BallesteroRibo2025IDG_HateXplain,
+  author       = {Marc Ballestero Ribó},
+  title        = {Explaining Word Interactions Using Integrated Directional Gradients},
+  year         = {2025},
+  howpublished = {\url{https://hdl.handle.net/2445/223054}},
+  institution  = {University of Barcelona},
+  url          = {https://hdl.handle.net/2445/223054}
+}
 ```
 
 ### **Code**
 Use the `CITATION.cff` file or the following BibTeX reference:
 ```bibtex
-@misc{BallesteroRibo2025IDG_HateXplain,
+@misc{BallesteroRibo2025IDG_HateXplain_code,
   author       = {Marc Ballestero Ribó},
   title        = {IDG\_HateXplain},
   year         = {2025},
   howpublished = {\url{https://github.com/srmarcballestero/IDG_HateXplain}},
   institution  = {University of Barcelona},
-  url          = {https://srmarcballestero.github.io}
+  url          = {https://hdl.handle.net/2445/223054}
 }
 ```
 
